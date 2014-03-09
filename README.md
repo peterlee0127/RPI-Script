@@ -15,8 +15,11 @@ rpi-update.sh
 
 Upgrade Raspbian to next distro
 ===
-change    
+now is Wheezy  - > Jessie   
+change
+===   
 <code>deb http://mirrordirector.raspbian.org/raspbian/ wheezy main contrib non-free rpi</code>   
-to   
+to 
+===  
 <code>deb http://mirrordirector.raspbian.org/raspbian/ jessie main contrib non-free rpi
 </code>
